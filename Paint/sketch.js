@@ -11,11 +11,11 @@ function setup() {
 
 
 function draw() {
-  //Create new object for colorBoxes
+  
     
 }
 
-//display header
+//display instruction
 function header() {
   fill("#404040");
   rect(0, 0, width, 50);
@@ -26,4 +26,3 @@ function header() {
   text("PAINT", width / 2, 33);
 }
     
-
