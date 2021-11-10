@@ -1,4 +1,4 @@
-
+var white,black;
 function setup() {
   //size of the canvas to draw on
   createCanvas(innerWidth, innerHeight);
